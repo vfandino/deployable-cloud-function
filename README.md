@@ -1,2 +1,3 @@
-# deployable-cloud-function
-Example code to demonstrate using CI with IBM Cloud Functions
+# Simple Deployable IBM Cloud Functions Example
+
+Really simple starter code to use with my deployment tutorial blog post (link to follow when the post is public).

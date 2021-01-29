@@ -1,3 +1,3 @@
 exports.main = function(args) {
-   return({"message": "Hola mundo"});
+   return({"message": "Hello World"});
 };
